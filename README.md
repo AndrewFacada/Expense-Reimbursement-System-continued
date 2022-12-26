@@ -1,5 +1,6 @@
-# Project 1 Repository
-*First push attempt*
+# Continuation of "Expense Reimbursement System"
+Moved from https://github.com/221114JavaFS/project-1-AndrewFacada
+Reason being to have more control over my work. Feel free to view my work through the above link (has all commits).
 
 Completed Requirements:
 1) Can use a username and password to log in.
